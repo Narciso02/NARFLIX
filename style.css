@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.cor1{
+    background-color: rgb(61, 60, 60);
+}
+
+h1{
+     color: red;
+}
+
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: red;
+}
+
+.nav3{
+    font-size: 16px;
+}
+
+.cor2{
+    background-color: rgb(153, 146, 146);
+}
+
+#b{
+    border-color: rgb(66, 65, 65);
+    background-color:rgb(83, 81, 81);
+}
